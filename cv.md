@@ -15,9 +15,11 @@ Beginning front-end developer with the **desire and willingness to self-learn, l
 * Soft: business conversation, problem-resolving, responsibility, critical thinking
 
 ## Code examples
-```function multiply(a, b){
+```
+function multiply(a, b){
     return  a * b;
-}```
+}
+```
 ## Work experience
 
 *Nov'21-Sep'22*\
