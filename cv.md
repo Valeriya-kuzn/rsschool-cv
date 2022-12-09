@@ -2,12 +2,12 @@
 # Valeriya Kuznetsova
 ## Contacts
 
-e-mail: valeriyakuznetsova123@gmail.com
+e-mail: valeriyakuznetsova123@gmail.com\
 tg: valeriya_kuzn
 
 ## Information
 
-Beginning front-end developer with the desire and willingness to self-learn, learn the latest technologies and create a quality product
+Beginning front-end developer with the **desire and willingness to self-learn, learn the latest technologies and create a quality product**
 
 ## Skills
 
@@ -15,20 +15,20 @@ Beginning front-end developer with the desire and willingness to self-learn, lea
 * Soft: business conversation, problem-resolving, responsibility, critical thinking
 
 ## Code examples
-`function multiply(a, b){
+```function multiply(a, b){
     return  a * b;
-}`
+}```
 ## Work experience
 
-*Nov'21-Sep'22*
+*Nov'21-Sep'22*\
 KPMG, Audit assistant
 
 ## Education
 
-*2017-2022*
+*2017-2022*\
 N. I. Lobachevsky State University of Nizhny Novgorod (UNN)
 
 ## Languages
 
-Russian - native
+Russian - native\
 English - B1 (Intermediate)
