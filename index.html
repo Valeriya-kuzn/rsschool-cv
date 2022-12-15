@@ -4,45 +4,67 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Curriculum vitae</title>
+        <link rel="stylesheet" href="style.css">
     </head>
 
     <body>
-        <h1>Valeriya Kuznetsova</h1>
-            <img src="Фото.jpg" alt="Фото">
-            <ul>
-                <li><a href="#1">Contacts</a></li>
-                <li><a href="#2">Information</a></li>
-                <li><a href="#3">Skills</a></li>
-                <li><a href="#4">Code examples</a></li>
-                <li><a href="#5">Work experience</a></li>
-                <li><a href="#6">Education</a></li>
-                <li><a href="#7">Languages</a></li>
-            </ul>        
-        <h2 id="1">Contacts</h2>
-            <p>e-mail: valeriyakuznetsova123@gmail.com<br>
-            tg: valeriya_kuzn</p>
-        <h2 id="2">Information</h2>
-            <p>Beginning front-end developer with the <strong>desire and willingness to self-learn, learn the latest technologies and create a quality product</strong></p>
-        <h2 id="3">Skills</h2>
-            <ul>
-                <li>Hard: basic HTML, CSS knowledges</li>
-                <li>Soft: business conversation, problem-resolving, responsibility, critical thinking</li>
-            </ul>
-        <h2 id="4">Code examples</h2>
-            <pre><code>function multiply(a, b){
-            return a * b;
-            }
-            </code></pre>
-        <h2 id="5">Work experience</h2>
-            <p><em>Nov'21-Sep'22</em><br>
-            KPMG, Audit assistant</p>
-        <h2 id="6">Education</h2>
-            <p><em>2017-2022</em><br>
-            N. I. Lobachevsky State University of Nizhny Novgorod (UNN)</p>
-        <h2 id="7">Languages</h2>
-            <p>Russian - native<br>
-            English - B1 (Intermediate)</p>
-         <footer>
-         </footer>
+        <nav class="nav">    
+            <a href="#h1">Contacts</a>
+            <a href="#h2">Information</a>
+            <a href="#h3">Skills</a>
+            <a href="#h4">Code examples</a>
+            <a href="#h5">Work experience</a>
+            <a href="#h6">Education</a>
+            <a href="#h7">Languages</a>
+        </nav>
+        <header>
+            <img src="Фото.jpg" alt="Фото" class="photo">
+            <h1>Valeriya Kuznetsova</h1>
+            <p>123 test</p>
+        </header>
+        <article>
+            <div class="info">
+                <h2 id="h1">Contacts</h2>
+                <p>e-mail: valeriyakuznetsova123@gmail.com<br>
+                tg: valeriya_kuzn</p>
+            </div>
+            <div class="info2">
+                <h2 id="h2">Information</h2>
+                <p>Beginning front-end developer with the desire and willingness to self-learn, learn the latest technologies</p>
+            </div>
+             <div class="info">
+                <h2 id="h3">Skills</h2>
+                <ul>
+                    <li>Hard: basic HTML, CSS knowledges</li>
+                    <li>Soft: business conversation, problem-resolving, responsibility, critical thinking</li>
+                </ul>
+            </div>
+            <div class="info2">
+                <h2 id="h4">Code examples</h2>
+                <pre>
+                <code>function multiply(a, b){
+                return a * b;
+                }
+                </code></pre>
+            </div>
+            <div class="info">
+                <h2 id="h5">Work experience</h2>
+                <p>Nov'21-Sep'22<br>
+                KPMG, Audit assistant</p>
+            </div>
+            <div class="info2">
+                <h2 id="h6">Education</h2>
+                <p>2017-2022<br>
+                N. I. Lobachevsky State University of Nizhny Novgorod (UNN)</p>
+            </div>
+            <div class="info">
+                <h2 id="h7">Languages</h2>
+                <p>Russian - Native<br>
+                English - B1 (Intermediate)</p>
+            </div>
+        </article>
+        <footer>
+        <address></address>
+        </footer>
     </body>
 </html>
