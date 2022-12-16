@@ -61,3 +61,27 @@ header h1{
 header p{
     margin: 50px 30px 30px 75px;
 }
+.RS{
+    width: 50px;
+    height: auto;
+    margin-bottom: -15px;
+    margin-top: 15px;
+}
+.Git{
+    width: 40px;
+    height: auto;
+    margin-top: 10px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.training{
+    margin: 0;
+    margin-bottom: -20px;
+}
+.year{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 15px;
+}
