@@ -1,1 +1,1 @@
-# rsschool-cv
+https://valeriya-kuzn.github.io/rsschool-cv/
